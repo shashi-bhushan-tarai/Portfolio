@@ -1,2 +1,2 @@
 # Portfolio
-i created this portfolio using HTNL,CSS,JS
+i created this portfolio using HTML,CSS,JS
